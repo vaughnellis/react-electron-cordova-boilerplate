@@ -1,6 +1,6 @@
 # Getting Started with React-Electron-Cordova Boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and merged with [Create Cordova App](https://github.com/apache/cordova-cli)
+This project was bootstrapped with [Create Cordova App](https://github.com/apache/cordova-cli) and merged with [Create React App](https://github.com/facebook/create-react-app) 
 
 # Environment Setup
     1. Text Editor of choice (VS Code)
